@@ -1,6 +1,6 @@
-# Salones y clínicas — MVP local
+# Aurora — MVP local para salones y clínicas
 
-Base inicial para construir un asistente conversacional para salones y clínicas.
+Aurora es la base inicial para construir un asistente conversacional para salones y clínicas.
 
 ## Qué hay ahora
 - Modelo de datos inicial.

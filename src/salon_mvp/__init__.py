@@ -1,4 +1,4 @@
-"""MVP local para salones y clínicas."""
+"""Aurora: MVP local para salones y clínicas."""
 
 from .booking_service import BookingService
 from .business_rules import PromotionRule, Recommendation, build_recommendations

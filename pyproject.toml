@@ -3,9 +3,9 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "salones-clinicas-mvp"
+name = "aurora"
 version = "0.1.0"
-description = "MVP local para un asistente conversacional de salones y clínicas"
+description = "Aurora: MVP local para un asistente conversacional de salones y clínicas"
 requires-python = ">=3.11"
 readme = "README.md"
 license = { text = "MIT" }

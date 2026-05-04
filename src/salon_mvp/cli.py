@@ -12,7 +12,7 @@ def build_cli_report(state: AppState, channel: str = "telegram") -> str:
 
 
 def main(argv: Sequence[str] | None = None) -> int:
-    parser = argparse.ArgumentParser(prog="salon-mvp")
+    parser = argparse.ArgumentParser(prog="aurora")
     subparsers = parser.add_subparsers(dest="command")
 
     report_parser = subparsers.add_parser("report", help="Muestra un reporte de demo")
