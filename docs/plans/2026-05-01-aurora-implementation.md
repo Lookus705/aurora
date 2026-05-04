@@ -1,4 +1,4 @@
-# Salones y clínicas — Plan de implementación local
+# Aurora — Plan de implementación local
 
 > **Para Hermes:** este plan sirve como ruta de ejecución por módulos y por orden de entrega.
 
